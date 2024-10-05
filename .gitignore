@@ -1,0 +1,5 @@
+archives/
+build/
+dist/
+*.spec
+config.json
